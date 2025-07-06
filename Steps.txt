@@ -1,0 +1,24 @@
+# Barang & Alat
+
+1. Tempat Sampah
+2. Arduino Uno 
+3. Motor Servo 
+4. Sensor Infrared 
+5. Kabel Jumper 
+6. Kawat
+7. Lem Tembak
+
+# Langkah-Langkah Pembuatan
+
+1. Petama, tempelkan motor servo di bawah samping kanan tutup tempat sampah dengan lem tembak
+2. Sambungkan kawat ke motor servo dan tutup tempat sampah
+3. Pasang sensor infrared di bagian depan dengan lem tembak
+4. Sambungkan motor servo dan sensor infrared ke papan sirkuit arduino dengan kabel jumper
+    1. blablabalbl
+    2. balalbl 
+    3. balalla
+5. Hubungkan papan sirkuit kedalam laptop / komputer
+6. Masuk kedalam software arduino lalu masukkan code yang sudah disiapkan, setelah itu upload code tersebut kedalam papan sirkuit
+7. Jika sudah, cabut kabel penghubung arduino ke laptop lalu pasangkan papan sirkuit disamping tempat sampah
+8. Lalu hubungkan kabel power ke colokan USB dengan stop kontak
+9. Jika sudah menyala silahkan dilakukan pengujian
