@@ -1,6 +1,6 @@
 # Automatic-Trash-Bin
 
-##Latar Belakang Permasalahan
+## Latar Belakang Permasalahan
 Judul Proyek/Gagasan: Rancang Bangun Tempat Sampah Otomatis Berbasis Sensor sebagai Solusi Inovatif untuk Meningkatkan Kebersihan di Lingkungan Sekolah.
 
 1. Pendahuluan: Pentingnya Lingkungan Sekolah yang Bersih dan Sehat
